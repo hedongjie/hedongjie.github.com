@@ -1,2 +1,0 @@
-xmmmssd \n
-sfsd
